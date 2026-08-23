@@ -1,0 +1,11 @@
+if(window.location.hash=== "#success") {
+
+
+
+document.getElementById("registration-popup").style.display = "none";
+    
+document.getElementById("main-content").style.display = "block";
+}
+   
+
+    document.getElementById("main-content").style.display = "none";
